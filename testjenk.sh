@@ -1,3 +1,3 @@
 lsblk
 
-cd /etc/*os-release
+cat /etc/*os-release
